@@ -10,7 +10,7 @@ description <http://example.com/tutorial2/description/missions#> as missions {
 		base:hasCanonicalName "Orbiter Mission"
 		mission:pursues objectives:characterize-atmosphere
 		mission:pursues objectives:characterize-environment
-		mission:pursues objectives:characterize-gravitational-field
+		mission:pursues objectives:characterize-gravitational-field   
 	]
 	instance lander : mission:Mission [
 		base:hasIdentifier "M.02"
